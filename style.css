@@ -3,5 +3,6 @@ body {
       background: url(100-28-6.png);
 }
  .container {
-  text-align: center;
+      text-align: center;
+      Width: 800px;
 }
