@@ -8,6 +8,8 @@ body {
       background-image: url('color-design-flora-1166644.jpg');
       background-position: center top;
       background-size: cover;
+      margin-left: 100px;
+      margin-right: 100px;
 }
 .pic {
     float: right;
