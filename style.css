@@ -9,12 +9,10 @@ body {
       background-position: center top;
       background-size: cover;
 }
-container {
 pic {
     float: right;
     border: 2px;
     padding: 2px;  
-}
 }
 date {
       float: right;
