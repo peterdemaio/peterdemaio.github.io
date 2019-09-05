@@ -8,19 +8,19 @@ body {
       background-position: center top;
       background-size: cover;
 }
- .container {
+ container {
       width: 800px;
       margin-left: 100px;
 }
-.date {
+date {
       float: right;
       font-style: italic;
 }
-.job {
+job {
       float: left;
       border-bottom-style: solid;
 }
-.words {
+words {
       font-size: 8px; 
 }
       
