@@ -29,13 +29,15 @@ body {
 .job {
       float: left;
       margin-left: 30px;
-      border: 10px;
+      border: 2px;
+      border-color: #ffffff;
      
 }
 .words {
       font-size: 12px;
       text-align: left;
-      border: 10px;
+      border: 2px;
+      border-color: #ffffff;
 }
 h1 {
       font-size: 36px;
