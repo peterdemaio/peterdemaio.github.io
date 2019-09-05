@@ -1,12 +1,7 @@
-h2 {
- font: Georgia, sans-serif;
- color: Black;
+body { 
+      font: 16px Georgia, Sans-Serif;
+      background: url(100-28-6.png);
 }
-
-p {
- color: Black;
-}
-
-.container {
+ .container {
   text-align: center;
 }
