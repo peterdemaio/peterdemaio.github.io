@@ -9,7 +9,7 @@ body {
       background-size: cover;
 }
  .container {
-      
+      width: 800px;
       margin-left: 100px;
 }
 .date {
