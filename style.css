@@ -13,8 +13,8 @@ body {
 }
 .date {
       float: right;
+      font-style: italic;
 }
 .job {
       float: left;
-      fton-style: italic;
 }
