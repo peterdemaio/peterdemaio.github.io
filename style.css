@@ -9,20 +9,20 @@ body {
       background-position: center top;
       background-size: cover;
 }
-pic {
+.pic {
     float: right;
     border: 2px;
     padding: 2px;  
 }
-date {
+.date {
       float: right;
       
 }
-job {
+.job {
       float: left;
      
 }
-words {
+.words {
       font-size: 12px; 
 }
 h1 {
