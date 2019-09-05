@@ -16,15 +16,11 @@ pic {
 }
 date {
       float: right;
-      font-style: italic;
-      border: 1px solid #204156;
-      padding: 8px 18px;
+      
 }
 job {
       float: left;
-      border: 1px solid #204156;
-      padding: 8px 18px;
-      margin-left: 30px
+     
 }
 words {
       font-size: 12px; 
