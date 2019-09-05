@@ -11,6 +11,10 @@ body {
       margin-left: 100px;
       margin-right: 100px;
 }
+#container {
+      width: 800px;
+      margin: 40px auto 60px;
+}
 .pic {
     float: right;
     border: 20px;
