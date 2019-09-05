@@ -13,11 +13,11 @@ body {
       margin-left: 100px;
 }
 date {
-      float: right;
+      justify-content: right;
       font-style: italic;
 }
 job {
-      float: left;
+      justify-content: left;
       border-bottom-style: solid;
 }
 words {
