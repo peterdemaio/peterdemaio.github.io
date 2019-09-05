@@ -6,3 +6,8 @@ h2 {
 p {
  color: Black;
 }
+
+.container {
+  width: 800px;
+  margin: 40px auto 60px;
+}
