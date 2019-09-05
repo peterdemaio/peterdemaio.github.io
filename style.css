@@ -1,6 +1,6 @@
 body { 
       font: 16px Georgia, Sans-Serif;
-      background: img src"color-design-flora-1166644.jpg";
+      background-image: url('color-design-flora-1166644.jpg');
 }
  .container {
       text-align: center;
