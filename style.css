@@ -1,5 +1,6 @@
 body { 
       font-size: 16px;
+      font-color: #00FFAA;
       font-family: 'georgia', 'helvetica';
       text-align: center;
       background-image: url('color-design-flora-1166644.jpg');
@@ -11,4 +12,7 @@ body {
 }
 .date {
       float: right;
+}
+.job {
+      float: left;
 }
