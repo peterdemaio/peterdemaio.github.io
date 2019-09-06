@@ -37,7 +37,8 @@ body {
 .job {
       float: left;
       margin-left: 30px;
-      border: 2px;
+      border-bottom-style: solid;
+      border-width: 2px;
       border-color: #ffffff;
      
 }
