@@ -19,9 +19,12 @@ body {
       border-width: 15px;
       
 }
+#contact {
+      font-size: 24;
+
+}
 #container {
       width: 800px;
-      margin: 40px auto 60px;
 }
 #pic {
     float: right;
