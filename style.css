@@ -42,8 +42,7 @@ body {
 .job {
       float: left;
       margin-left: 30px;
-      border-bottom-style: solid;
-      border-width: 2px;
+      
      
 }
 .words {
@@ -54,6 +53,9 @@ body {
 h1 {
       font-size: 36px;
 }
+h2 {
+      bottom-border-style: solid;
+      bottom-border-width: 2px;
 h3 {
       font-size: 18px;
 }
