@@ -19,44 +19,48 @@ body {
       border-width: 10px;
       
 }
+
 #contact {
       font-size: 24px;
 
 }
+
 #container {
       width: 800px;
       margin: 40px auto 60px
 
 }
+
 #pic {
     float: right;
     border: 20px;
     padding: 20px;  
     border-radius: 10px;
 }
+
 .date {
       float: right;
       margin-right: 30px;
       
 }
+
 .job {
       float: left;
       margin-left: 30px;
       
      
 }
+
 .words {
       font-size: 12px;
       text-align: left;
       
 }
+
 h1    {
       font-size: 36px;
 }
-.top {
-      bottom-border-style: solid;
-      border-width: 2px;
-}
-      h3 {
+
+h3 {
       font-size: 18px;
 }
