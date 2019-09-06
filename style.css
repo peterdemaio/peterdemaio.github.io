@@ -55,7 +55,7 @@ h1 {
 }
 h2 {
       bottom-border-style: solid;
-      bottom-border-width: 2px;
+      border-width: 2px;
 h3 {
       font-size: 18px;
 }
